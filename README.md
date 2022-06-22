@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Devanblight
-- 👀 I’m interested in ios
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me github
